@@ -1,0 +1,30 @@
+commit a6bfe8290db8ecc808bcc885212967b8b406e5ec
+Merge: 3518175 afdde20
+Author: Dipankur Lawaria <dipankur.lawaria@iongroup.com>
+Date:   Mon Feb 7 17:36:37 2022 +0530
+
+    Modified the info in the details.txt after merge conflict error
+
+commit 35181759978e7c665c8cc17ecf19cc5fde98d490
+Author: Dipankur Lawaria <dipankur.lawaria@iongroup.com>
+Date:   Mon Feb 7 17:30:48 2022 +0530
+
+    Added details for Dipankur Lawaria into details.txt
+
+commit afdde201f619b227bb28fd3a40a8354648f18c10
+Author: IONTRADING\inderjeet.singh <inderjeet.singh@iongroup.com>
+Date:   Mon Feb 7 17:30:42 2022 +0530
+
+    Added details for Inderjeet into details.txt
+
+commit 8fbb34b5d07bf5de6f5fc7b6387269506ffe04ea
+Author: Dipankur Lawaria <dipankur.lawaria@iongroup.com>
+Date:   Mon Feb 7 17:26:09 2022 +0530
+
+    Added the heading for file details.txt
+
+commit e3b66fa076d2126eb7b683a040274bff560f3b75
+Author: IONTRADING\inderjeet.singh <inderjeet.singh@iongroup.com>
+Date:   Mon Feb 7 17:19:26 2022 +0530
+
+    Blank Document Details Created
